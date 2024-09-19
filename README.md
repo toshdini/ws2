@@ -1,1 +1,5 @@
 workshop 2
+
+Name: Abdirahman Mohamed
+Email: amohamed108@myseneca.ca
+Student ID: 155581168
